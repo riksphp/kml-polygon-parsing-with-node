@@ -13,7 +13,7 @@ Run gulp
 
 It is using nodemon to automatically detect the changes done on this server.
 Navigate to http://127.0.0.1:8000/api/outlet?lat=12.937340899999999&lng=77.7014441
-It will parse the KML file and wull check if the passed address has any outelts present.
+It will parse the KML file and will check if the passed address has any outelts present.
 
 ## Front end
 A sample Front end app for this server can be found at:
